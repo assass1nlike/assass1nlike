@@ -22,6 +22,6 @@ _Feel free to contact me for communication and collaboration!_
 
 个人主页之外，我也会在一些社交媒体上发布博客和视频等：
 
-- 小红书：https://www.xiaohongshu.com/user/profile/62135858000000001000657c
-- 知乎：https://www.zhihu.com/people/cartoon34
-- Bilibili：https://space.bilibili.com/1450132725 (including something not academic or technical...)
+- [小红书](https://www.xiaohongshu.com/user/profile/5ed619740000000001001bed)
+- [知乎](https://www.zhihu.com/people/cartoon34)
+- [Bilibili](https://space.bilibili.com/1450132725) (including something not academic or technical...)
