@@ -17,7 +17,7 @@ Intern@T-STAR Lab, Tsinghua University.
 
 ### Contact
 
-_Feel free to contact me!_
+_Feel free to contact me for communication and collaboration!_
 我的邮箱，以及个人主页中的各个联系方式都是可用的。
 
 我会在一些社交媒体上发布 blog 和视频等：
