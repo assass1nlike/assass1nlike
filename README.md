@@ -20,7 +20,7 @@ Intern@T-STAR Lab, Tsinghua University.
 _Feel free to contact me for communication and collaboration!_
 我的邮箱，以及个人主页中的各个联系方式都是可用的。
 
-我会在一些社交媒体上发布 blog 和视频等：
+个人主页之外，我也会在一些社交媒体上发布博客和视频等：
 
 - 小红书：https://www.xiaohongshu.com/user/profile/62135858000000001000657c
 - 知乎：https://www.zhihu.com/people/cartoon34
