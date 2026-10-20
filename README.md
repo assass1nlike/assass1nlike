@@ -2,7 +2,7 @@
 
 Intern@T-STAR Lab, Tsinghua University.
 
-### Intro
+## Intro
 
 **AI Researcher**
 
@@ -15,7 +15,7 @@ Intern@T-STAR Lab, Tsinghua University.
 
 **我的个人主页 www.assassinlike.top 中有更多关于我的信息，欢迎来了解~**
 
-### Contact
+## Contact
 
 _Feel free to contact me for communication and collaboration!_
 我的邮箱，以及个人主页中的各个联系方式都是可用的。
